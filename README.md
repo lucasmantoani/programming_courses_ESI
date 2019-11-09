@@ -7,3 +7,4 @@ Repository of all the exercices i made following programming courses at school (
 - C#
 - JAVA
 - PHP + SQL
+- Autres cours
