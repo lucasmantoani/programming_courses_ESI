@@ -1,5 +1,5 @@
 # Cours_ESI_Metz
-Repository of all the exercices i made following programming courses at school (ESI Metz)
+Repository of all the exercices i made following programming courses at school (ESI Metz).
 
 ## Content :
 
@@ -8,3 +8,5 @@ Repository of all the exercices i made following programming courses at school (
 - JAVA
 - PHP + SQL
 - Autres cours
+
+All the network exercices are on another repository.
